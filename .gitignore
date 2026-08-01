@@ -1,0 +1,6 @@
+# Calibration overlays are never committed — see README.md
+*.local.md
+
+# Local agent/editor state
+.claude/
+.DS_Store
